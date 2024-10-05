@@ -25,7 +25,17 @@
  <br/>
  <div align = "center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c ,flutter,python,java" /><be>
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c,flutter,python,java" /><br>
+    </a>
+ </div>
+
+ <h4 align = "center" > My used platforms </h4>
+ <br/>
+ <div align = "center" > 
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode" /<br>
+      </a>
+ </div>
 <!---
 Akshitwadhwa/Akshitwadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
