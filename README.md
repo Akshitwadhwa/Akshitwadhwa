@@ -1,3 +1,14 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+
+
+
+
+
 - 👋 Hi, I’m @Akshitwadhwa
 - 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
 - Also love working with python and playing around with little bit of andriod development
