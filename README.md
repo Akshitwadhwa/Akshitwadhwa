@@ -24,7 +24,7 @@
  <h2 align = "center" > My expertise - tools </h2>
  <br/>
  <div align = "center">
-    a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c ,c++, python" />
 <!---
 Akshitwadhwa/Akshitwadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
