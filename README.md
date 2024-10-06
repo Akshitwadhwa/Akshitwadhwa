@@ -25,17 +25,28 @@
  <br/>
  <div align = "center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c,flutter,python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c,flutter,python,java,vscode" /><br>
     </a>
  </div>
 
- <h4 align = "center" > My used platforms </h4>
+ <div align = "center">
+   <h5 align = "center" > My used Platforms 🖥️💻</h5>
+   <img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+   <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ </div>
+   
+   
+
+ <h4 align = "center" > When i am AfK 🎧🍕 </h4>
  <br/>
  <div align = "center" > 
-      <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode" /<br>
-      </a>
+          <img src = "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
+          <img src = "https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white "/>
+          <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white "/>
+          <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "/>
+
  </div>
+ 
 <!---
 Akshitwadhwa/Akshitwadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
