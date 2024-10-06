@@ -43,7 +43,7 @@
           <img src = "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
           <img src = "https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white "/>
           <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white "/>
-          <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "/>
+          <img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white "/>
 
  </div>
  
