@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Akshitwadhwa/Akshitwadhwa" />
-<img align="right" src=[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbackiee.com%2Fsearch%2Flofi&psig=AOvVaw3mJi5JKRhqxtiP2vlXcvnJ&ust=1729619682365000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiEkuCFoIkDFQAAAAAdAAAAABAR)" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshit+Wadhwa!;" />
