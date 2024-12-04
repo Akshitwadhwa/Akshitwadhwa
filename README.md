@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c,flutter,python,java,vscode" /><br>
     </a>
     <a2 href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,azure,css,nodejs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=autocad,azure,css,nodejs,mysql,npm,postman,r,linkedin" /><br>
     </a2>
  </div>
 
