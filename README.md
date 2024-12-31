@@ -50,7 +50,7 @@
 
  </div>
  <div>
-      <h2 align = "center" >I am currrently working one </h2>
+      <h2 align = "center" >I am currrently working on </h2>
  </div>
  
 <!---
