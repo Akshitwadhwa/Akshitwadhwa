@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd6dmE1NTVlNm00eDBrN3B6OXAxOTZhdXRrMnVzdzJwYTd5dmpmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width ="100/>
+    </div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Akshitwadhwa/Akshitwadhwa" />
 
 <h1 align="center">
@@ -18,6 +22,11 @@
   <a href="mailto:akshitwadhwa06@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target = "_blank" />
   </a>
+  <a href="www.linkedin.com/in/akshit-wadhwa-56b65b320">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+ 
 </div>
 
 <hr/>
