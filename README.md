@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshit+Wadhwa!;" />
 </h1> 
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 <h3 align ="center"> A learner ,innovative and passionate coder and happy to work on new projects</h3>
 
 - 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
@@ -25,7 +27,6 @@
   <a href="www.linkedin.com/in/akshit-wadhwa-56b65b320">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
  
 </div>
 
@@ -46,8 +47,9 @@
    <img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
    <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  </div>
-   
-   
+
+ <div
+
 
  <h4 align = "center" > When i am AfK 🎧🍕 </h4>
  <br/>
