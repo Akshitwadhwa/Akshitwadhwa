@@ -62,7 +62,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
- <h4 align = "center" > When i am AfK 🎧🍕 </h4>
+ ### When i am AfK 🎧🍕 
  <br/>
  <div align = "center" > 
           <img src = "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
