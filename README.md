@@ -51,15 +51,16 @@
 
  ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
+
+ [![GitHub Streak](https://github-readme-streak-stats-steel-ten.vercel.app?user=Akshitwadhwa&theme=tokyonight-duo&card_width=497)](https://git.io/streak-stats)
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo" alt="GitHub Streak" />
-    </a>
-    <br />
+<br />
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Langs" />
     </a>
 </div>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
  <h4 align = "center" > When i am AfK 🎧🍕 </h4>
  <br/>
@@ -70,9 +71,14 @@
           <img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white "/>
 
  </div>
+ 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+ 
  <div>
       <h2 align = "center" >I am currrently working on </h2>
  </div>
+ 
+![](https://github-contributor-stats.vercel.app/api?username=Akshitwadhwa&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
  
 <!---
 Akshitwadhwa/Akshitwadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
