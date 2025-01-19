@@ -47,12 +47,15 @@
    <img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
    <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  </div>
+
 <table>
   <tr>
     <td>
-      <img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitwadhwa&layout=compact&theme=vision-friendly-dark)](https://github.com/Akshitwadhwa/github-readme-stats)
+      <img src=[![GitHub Streak](https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo)](https://git.io/streak-stats)
     </td>
    </tr>
+
+   </table>
 
 
  <h4 align = "center" > When i am AfK 🎧🍕 </h4>
