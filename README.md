@@ -42,21 +42,17 @@
     </a2>
  </div>
 
+ 
  <div align = "center">
    <h5 align = "center" > My used Platforms 🖥️💻</h5>
    <img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
    <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  </div>
 
-<table>
-  <tr>
-    <td>
-      <img src=[![GitHub Streak](https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo)](https://git.io/streak-stats)
-    </td>
-   </tr>
+ ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-   </table>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo)](https://git.io/streak-stats)
 
  <h4 align = "center" > When i am AfK 🎧🍕 </h4>
  <br/>
