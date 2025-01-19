@@ -51,8 +51,15 @@
 
  ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Akshitwadhwa&theme=tokyonight-duo" alt="GitHub Streak" />
+    </a>
+    <br />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Langs" />
+    </a>
+</div>
 
  <h4 align = "center" > When i am AfK 🎧🍕 </h4>
  <br/>
