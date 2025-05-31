@@ -15,6 +15,7 @@
 - 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
 - Also love working with python and playing around with little bit of andriod development
 - 🌱 I’m currently learning a bit of java and interactive javascript for webdev. Also trying to get into swift of ios development.
+- 🌱 Passionalty looking into android development along with learning the flutter framework
 - 💞️ I’m looking to collaborate on anytype of projects ranging from python to web dev for creating the next big thing.
 - 😄 Pronouns: He/Him👦
 - ⚡ Fun fact: I also love working into graphic desiging and social media with doing some projects here and there. Open to video filimg and creaative video editing.
