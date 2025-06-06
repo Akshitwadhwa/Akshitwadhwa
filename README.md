@@ -56,9 +56,9 @@
  [![GitHub Streak](https://github-readme-streak-stats-steel-ten.vercel.app?user=Akshitwadhwa&theme=tokyonight-duo&card_width=497)](https://git.io/streak-stats)
 <div align="center">
 <br />
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitwadhwa&layout=donut-vertical" alt="Top Langs" />
-    </a>
+   
+ <a href="https://github.com/Akshitwadhwa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshitwadhwa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="akshits github stats"/></a> 
+
 </div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
