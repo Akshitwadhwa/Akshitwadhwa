@@ -10,14 +10,14 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-<h3 align ="center"> A learner ,innovative and passionate coder and happy to work on new projects</h3>
+<h3 align ="center"> A learner , innovative and passionate coder happy to work on new projects</h3>
 
 
 - 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
 - Also love working with python and playing around with little bit of andriod development
-- 🌱 I’m currently learning a bit of java and interactive javascript for webdev. Also trying to get into swift of ios development.
-- 🌱 Passionalty looking into android development along with learning the flutter framework
-- 💞️ I’m looking to collaborate on anytype of projects ranging from python to web dev for creating the next big thing.
+- 🌱 I’m currently learning a bit of React and interactive NextJS for web development.
+- 🌱 Passionate about looking into Android development, along with learning the Flutter framework
+- 💞️ I’m looking to collaborate on any type of projects ranging from Python to web development for creating the next big thing.
 - 😄 Pronouns: He/Him👦
 - ⚡ Fun fact: I also love working into graphic desiging and social media with doing some projects here and there. Open to video filimg and creative video editing.
 - 😎 Side passions: love watching movies and informative documentries. Also into learning animating videos.
