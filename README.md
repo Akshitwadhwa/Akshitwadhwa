@@ -11,7 +11,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 <h3 align ="center"> A learner ,innovative and passionate coder and happy to work on new projects</h3>
-<h3 https://akshitwadhwa.tech </h3>
+
 
 - 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
 - Also love working with python and playing around with little bit of andriod development
