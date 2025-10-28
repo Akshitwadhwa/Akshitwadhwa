@@ -13,14 +13,14 @@
 <h3 align ="center"> A learner , innovative and passionate coder happy to work on new projects</h3>
 
 
-- 👀 I’m interested in making web dev projects with design mixed with backend codeing, along with working in data anaylysis in finance market.
-- Also love working with python and playing around with little bit of andriod development
+- 👀 I’m interested in making end-to-end SaaS projects with integrated backend design. Sidehustle working on data analysis in the finance market.
+- Also love working with Python and JavaScript integrated Apps.
 - 🌱 I’m currently learning a bit of React and interactive NextJS for web development.
 - 🌱 Passionate about looking into Android development, along with learning the Flutter framework
-- 💞️ I’m looking to collaborate on any type of projects ranging from Python to web development for creating the next big thing.
+- 💞️ I’m looking to collaborate on any type of projects, ranging from Python to web development, for creating the next big thing.
 - 😄 Pronouns: He/Him👦
-- ⚡ Fun fact: I also love working into graphic desiging and social media with doing some projects here and there. Open to video filimg and creative video editing.
-- 😎 Side passions: love watching movies and informative documentries. Also into learning animating videos.
+- ⚡ Fun fact: I also love working in graphic design and social media with doing some projects here and there. (Lil twitter influencer🙃)
+- 😎 Side passions: love watching movies and informative documentaries. Also into learning Video Animation.
 
 <div align = "center">
   <a href="mailto:akshitwadhwa06@gmail.com">
@@ -66,7 +66,6 @@
  ### When i am AfK 🎧🍕 
  <br/>
  <div align = "center" > 
-          <img src = "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
           <img src = "https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white "/>
           <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white "/>
           <img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white "/>
