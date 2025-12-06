@@ -13,14 +13,18 @@
 <h3 align ="center"> A learner , innovative and passionate coder happy to work on new projects</h3>
 
 
-- 👀 I’m interested in making end-to-end SaaS projects with integrated backend design. Sidehustle working on data analysis in the finance market.
-- Also love working with Python and JavaScript integrated Apps.
-- 🌱 I’m currently learning a bit of React and interactive NextJS for web development.
-- 🌱 Passionate about looking into Android development, along with learning the Flutter framework
-- 💞️ I’m looking to collaborate on any type of projects, ranging from Python to web development, for creating the next big thing.
-- 😄 Pronouns: He/Him👦
-- ⚡ Fun fact: I also love working in graphic design and social media with doing some projects here and there. (Lil twitter influencer🙃)
-- 😎 Side passions: love watching movies and informative documentaries. Also into learning Video Animation.
+<img align="right" src="https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif" width="250" />
+
+### 👨‍💻 A learner, innovative and passionate coder
+
+- 🔭 I’m interested in making **end-to-end SaaS projects** and data analysis in finance.
+- 🐍 Love working with **Python** and **JavaScript** integrated Apps.
+- 🌱 Currently learning **React, NextJS**, and **Android Development (Flutter)**.
+- 💞️ Looking to collaborate on web development and Python automation projects.
+- 🎨 **Fun fact:** I dabble in graphic design (Lil twitter influencer 🙃).
+- 😄 **Pronouns:** He/Him
+- ⚡ **Side Passions:** Documentaries, Video Animation, and Finance.
+
 
 <div align = "center">
   <a href="mailto:akshitwadhwa06@gmail.com">
