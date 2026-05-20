@@ -22,7 +22,7 @@
   <a href="https://github.com/Akshitwadhwa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" />
   </a>
-  <a href="[(https://leetcode.com/u/Akshitw/)]">
+  <a href="[[(https://leetcode.com/u/Akshitw/)]](https://leetcode.com/u/Akshitw/)">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25" />
 </a>
 </div>
