@@ -29,46 +29,6 @@ I build useful, interactive software across AI, full-stack web development, cybe
 
 ---
 
-## 🚀 Featured Projects
-
-### [SideQuest — AI Builder Meetup](https://github.com/Akshitwadhwa/Meetup-Project)
-
-A people-finding platform for AI meetups and hackathons. Builders create profiles, discover potential teammates based on shared tools and interests, and use a lightweight icebreaker to start conversations.
-
-**Technologies:** HTML, CSS, JavaScript, Supabase, PostgreSQL, Edge Functions, Vercel, Luma
-
-[Live project](https://sidequest-meetup.vercel.app)
-
-### [CyberRecon](https://github.com/Akshitwadhwa/CyberRecon)
-
-An agentic cybersecurity investigation system that analyzes network, endpoint, and identity evidence, reconciles conflicting findings, and produces an auditable incident assessment.
-
-**Technologies:** Python, SQLite, CrewAI, Google ADK, FastAPI, LiteLLM
-
-### [AI Codebase X-Ray](https://github.com/Akshitwadhwa/AI-Codebase-X-Ray)
-
-A code intelligence tool that scans public GitHub repositories, builds a structural code graph, answers questions with file citations, reviews symbols and call relationships, and runs pytest checks against pull requests.
-
-**Technologies:** Python, FastAPI, Tree-sitter, NetworkX, GitHub API, RAG, pytest
-
-### [CareGraph AI](https://github.com/Akshitwadhwa/Caregraph-Ai)
-
-A clinical decision-support assistant that grounds answers in local medical PDFs using retrieval, document understanding, and multimodal AI workflows.
-
-**Technologies:** Python, FastAPI, React, LangChain, FAISS, Gemini
-
-### [Note-Pilot AI](https://github.com/Akshitwadhwa/Note-Pilot-Ai)
-
-An academic workspace for notes, PDF analysis, course material retrieval, study packs, quizzes, and classroom workflows.
-
-**Technologies:** React, TypeScript, Node.js, PostgreSQL, Supabase, OpenAI
-
-### [Maitri — Astronauts' Pen Pal](https://github.com/Akshitwadhwa/Maitri-Astros-Pen-Pal)
-
-A voice-to-voice AI psychological support system for astronauts, combining evidence-based interventions with operational assistance and offline model support.
-
-**Technologies:** Python, Ollama, Gemini, PyTorch
-
 ---
 
 ## 🌍 Open Source
