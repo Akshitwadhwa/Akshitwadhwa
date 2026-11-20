@@ -101,7 +101,7 @@ I build useful, interactive software across AI, full-stack web development, cybe
 
 I’m open to interesting software, AI, and developer-tool collaborations.
 
-- Portfolio: [akshitwadhwa.tech](https://akshitwadhwa.tech)
+- Portfolio: [akshitwadhwa.tech](https://www.akshitwadhwa.me)
 - LinkedIn: [Akshit Wadhwa](https://www.linkedin.com/in/akshit-wadhwa-56b65b320)
 - Email: [akshitwadhwa06@gmail.com](mailto:akshitwadhwa06@gmail.com)
 - GitHub: [@Akshitwadhwa](https://github.com/Akshitwadhwa)
